@@ -1,0 +1,7 @@
+--stack-loc
+0x81
+.\src\obj\_gate.rel,
+.\src\obj\flash.rel,
+.\src\obj\crc.rel,
+.\src\obj\eeprom.rel,
+.\src\obj\serial.rel
